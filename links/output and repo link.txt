@@ -1,0 +1,23 @@
+output link:
+
+https://harikrishnan-mca23.github.io/ballmoving/
+https://harikrishnan-mca23.github.io/-randomballmoving/
+https://harikrishnan-mca23.github.io/pacman/
+https://harikrishnan-mca23.github.io/bostons/
+https://github.com/Harikrishnan-mca23/wordcount
+https://harikrishnan-mca23.github.io/pacman-game/
+https://harikrishnan-mca23.github.io/eye-ball-animation/
+https://github.com/Harikrishnan-mca23/live-location
+https://github.com/Harikrishnan-mca23/live-location
+
+
+repo link:
+https://github.com/Harikrishnan-mca23/ballmoving
+https://github.com/Harikrishnan-mca23/-randomballmoving
+https://github.com/Harikrishnan-mca23/pacman
+https://github.com/Harikrishnan-mca23/bostons
+https://github.com/Harikrishnan-mca23/ballmoving
+https://github.com/Harikrishnan-mca23/pacman-game
+https://github.com/Harikrishnan-mca23/eye-ball-animation
+https://harikrishnan-mca23.github.io/live-location/
+https://github.com/Harikrishnan-mca23/hanoi
